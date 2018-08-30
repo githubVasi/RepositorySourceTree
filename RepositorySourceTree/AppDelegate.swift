@@ -1,11 +1,4 @@
-//
-//  AppDelegate.swift
-//  RepositorySourceTree
-//
-//  Created by MacOS on 30.08.18.
-//  Copyright © 2018 MacOS. All rights reserved.
-//
-
+//COMMIT1 SourceTree
 import UIKit
 
 @UIApplicationMain
